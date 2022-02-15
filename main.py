@@ -2940,4 +2940,4 @@ async def horoscopo(message):
             "Escribiste mal el comando, a ver si descubres la forma correcta XD."
         )
 
-client.run('OTEyMTE5NDUxNjk1MDc1MzM4.YZrTbw.7E42zZT2b8AwK_OxeLwpKzACgRY')
+client.run('TOKEN')

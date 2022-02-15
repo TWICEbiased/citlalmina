@@ -1,0 +1,5 @@
+Se ha introducido un sistema de traducción para traducir de cualquier lengua a cualquier idioma. Se han agregado algunos comandos y se ha mejorado el rendimiento.
+
+PD: Para ver los comandos del bot, escribe '!ct ayuda'
+
+DISCLAIMER: Este software está licenciado bajo la GNU GPL v3. Para más información, revise el archivo COPYING del repositorio de GitHub donde se encuentra el código fuente del mismo, o visite https://www.gnu.org/licenses/gpl-3.0.html

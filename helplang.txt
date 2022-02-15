@@ -1,0 +1,31 @@
+Para traducir una frase de cualquier idioma al español, el comando es:
+
+!ct traducir frase
+
+'frase' es lo que se va a traducir. Ejemplo:
+
+!ct traducir 이것은 아주 좋게 효과가있네요!
+
+Si deseas traducir a otro idioma que no es español, el comando es:
+
+!ct translate idioma frase
+
+'idioma' es el idioma al que queremos traducir y 'frase' es lo que se va a traducir. El idioma debe colocarse en formato ISO (de 2 letras). Ejemplo:
+
+!ct translate ja ¡Esto funciona muy bien!
+
+Algunos de los idiomas disponibles son:
+es - Español
+en - Inglés
+pt - Portugués
+de - Alemán
+nl - Neerlandés
+ja - Japonés
+zh - Chino
+ko - Coreano
+fr - Francés
+ar - Árabe
+
+PD: Estos idiomas sólo deben especificarse cuando se usa el comando "!ct translate"
+
+Puedes ver la lista completa de idiomas en: https://bit.ly/3bNZiBl
